@@ -1,0 +1,5 @@
+!add : Add song to queue
+!np : now playing
+!queue : Current song list (sends to DM)
+!search : Search for a song
+!vote-skip : Start a vote to skip song
